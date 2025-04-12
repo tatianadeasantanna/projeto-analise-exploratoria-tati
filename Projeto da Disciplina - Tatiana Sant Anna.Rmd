@@ -1240,14 +1240,17 @@ Por fim, foi criado um dashboard em Shiny para visualizar as variáveis e suas e
 
 ## Painel 1 - Análise Geral
 
-![Print do Painel 1 - Análise Geral](dashboard_panel_1.png)
+1) ![Print do Painel 1 - Análise Geral](dashboard_panel_1.png)
+
 
 ## Painel 2 - Análise Temporal das Cidades do Sudeste
 
-![Print do Painel 2 - Análise Temporal](dashboard_panel_2.png)
 
-### Repositório
-O repositório do projeto completo está no [GitHub](https://github.com/tatianadeasantanna/projeto-analise-exploratoria-tati/).
+2) ![Print do Painel 2 - Análise Temporal](dashboard_panel_2.png)
+
+
+# Repositório
+Todo o material desenvolvido para este projeto, incluindo os códigos em RMarkdown, os arquivos do dashboard Shiny e a base de dados utilizada, está disponível no GitHub, no seguinte link: [GitHub](https://github.com/tatianadeasantanna/projeto-analise-exploratoria-tati/).
 
 
 
